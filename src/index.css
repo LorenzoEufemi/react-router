@@ -1,0 +1,16 @@
+img {
+    max-width: 100%;
+}
+.active {
+    color: blueviolet;
+}
+.list {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+.txt {
+    text-align: center;
+}
